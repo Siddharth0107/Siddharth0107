@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+I’m a full-stack developer specializing in building scalable, data-driven enterprise applications using Angular (frontend) and Django (backend). My core focus is on designing flexible systems—especially around dynamic reporting, query building, and data orchestration—rather than relying on rigid, prebuilt solutions.<br><br>I have hands-on experience architecting a custom report builder from scratch, where users can dynamically select columns, apply filters, and generate structured reports across complex relational datasets. This includes solving non-trivial problems like:<br><br>Merging parent-child transactional data (one-to-one and one-to-many relationships)<br><br>Designing generic, extensible data transformation layers in the backend<br><br>Building highly interactive, state-driven UI components in Angular<br><br>I prefer engineering control over black-box tools, but I also evaluate third-party solutions pragmatically when they accelerate delivery (e.g., prior exploration of tools like Cube.js, Frappe, and BI platforms).<br><br>On the frontend, I work extensively with:<br><br>Reactive Forms, strict typing, and component abstraction<br><br>Advanced UI patterns like dynamic filters, accordion-driven search, and reusable autocomplete systems<br><br>Migration and optimization using libraries like PrimeNG while maintaining compatibility with Bootstrap<br><br>On the backend, I focus on:<br><br>Clean API design and serialization logic<br><br>Handling large datasets (including async report generation)<br><br>Designing systems that remain stable under evolving business logic without requiring database restructuring<br><br>Beyond application development, I also handle:<br><br>CI/CD pipelines and deployment workflows (AWS, systemd, Celery)<br><br>Post-deployment validation and rollback-safe strategies<br><br>Automation scripts and operational tooling<br><br>I approach problems with a systems-thinking mindset—prioritizing scalability, maintainability, and adaptability over quick fixes.
 
-<!--
-**Siddharth0107/Siddharth0107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sidd_0107) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/siddharth-pathak-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathaksiddharth05659@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Siddharth0107&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Siddharth0107&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth0107&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Siddharth0107&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Siddharth0107&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Siddharth0107&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
